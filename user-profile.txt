@@ -1,0 +1,46 @@
+{
+  "first_name": "Henrry",
+  "last_name": "Cavil", 
+  "birth_year": 1948,
+  "age": 76,
+  "gender": "Male",
+  "marital_status": "Widower",
+  "education_level": "University Degree",
+  "occupation": "Retired Teacher",
+  "hobbies": [
+    "Reading News Online",
+    "Learning about New Technology",
+    "Listening to Classical Music",
+    "Playing Online Chess"
+  ],
+  "favorite_genres": [
+    "Current Events",
+    "Science Documentaries",
+    "1970s-80s Pop Music",
+    "International Music"
+  ],
+  "daily_routine": [
+    "Exercise",
+    "Reading News Online",
+    "Talking with Friends on the Phone"
+  ],
+  "personality": [
+    "Open-minded",
+    "Inquisitive",
+    "Interested in Current Affairs",
+    "Can be strict"
+  ],
+  "values": [
+    "Believes in contributing to society",
+    "Always eager to learn"
+  ],
+  "health_conditions": "Relatively good, experiences occasional fatigue",
+  "num_children": 1,
+  "children_details": "Lives abroad with family",
+  "lives_with_family": false,
+  "reasons_for_using_app": [
+    "Easier access to information, especially news and new knowledge",
+    "Entertainment - Music and brain games",
+    "Connecting with family overseas"
+  ]
+}
