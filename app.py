@@ -1,7 +1,6 @@
 import streamlit as st
 from groq import Groq
 import time
-import re
 import json
 
 st.title('Hey mate! How are you today ?')
