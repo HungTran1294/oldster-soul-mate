@@ -1,6 +1,4 @@
 # oldster-soul-mate
-Here's the content for your `README.md`, formatted for easier copying and readability:
-
 This web application provides an AI-powered companion chatbot designed for senior users. It utilizes Groq's platform to access Llama 3, a large language model, to create engaging and personalized conversations. 
 
 ## Features
